@@ -1,5 +1,5 @@
 <div align="center">
-	<h1> Metabnb- Rent A Place Away From Home In The Multiverse.</h1>
+	<h1> Metabnb- Rent A Place Away From Home In The Metaverse.</h1>
 </div>
 
 ## Tech Stack ✨
