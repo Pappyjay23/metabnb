@@ -4,8 +4,8 @@ import CTABanner from "../assets/images/ctaImg.png";
 const CTA = () => {
 	return (
 		<div className='bg-[#A02279] text-white px-10 py-[3rem] lg:px-[5rem] lg:py-[5rem]'>
-			<div className="flex flex-col lg:flex-row items-center justify-between max-w-[1200px] mx-auto">
-				<div className='lg:w-[30%] mb-[5rem] md:mb-[3rem]'>
+			<div className="flex flex-col lg:flex-row items-center justify-between max-w-[1200px] mx-auto w-full">
+				<div className='lg:w-[40%] mb-[5rem] md:mb-[3rem]'>
 					<h2 className='capitalize text-[2rem] mb-5 lg:mb-10 font-bold'>
 						Metabnb NFTs
 					</h2>
