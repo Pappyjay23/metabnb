@@ -41,7 +41,7 @@ const HeroSection = () => {
 					<img src={Banner} alt='Banner' />
 				</div>
 			</div>
-			<div className='flex bg-[#A02279] my-8 p-2'>
+			<div className='flex bg-[#A02279] my-2 p-2'>
 				<div className="lg:w-[80%] w-full mx-auto flex justify-between items-center max-w-[1200px]">
 					<img src={Brand1} alt='Brand' className="h-[12px] md:h-[20px] lg:h-[30px]" />
 					<img src={Brand2} alt='Brand' className="h-[12px] md:h-[20px] lg:h-[30px]" />
