@@ -1,8 +1,51 @@
 <div align="center">
-<h1> Digitaly - Digital Marketing Agency Landing Page Website.
-</h1>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3d529733-8f24-4a95-a83e-0331d4d88b68/deploy-status)](https://app.netlify.com/sites/digitaly/deploys)
-
+	<h1> Metabnb- Rent A Place Away From Home In The Multiverse.</h1>
 </div>
-# metabnb
+## Tech Stack ✨
+
+- [React.js](https://reactjs.org/) - UI Library
+- [Tailwind CSS](https://tailwindcss.com/) - Styling and UI
+- [Create React App](https://create-react-app.dev/) - Build tool
+- [Netlify](https://www.netlify.com/) - Hosting and Deployment
+
+## How to run locally 💻
+
+Follow these steps to run Metabnb in your local machine.
+
+### Clone this repository
+
+```bash
+git clone https://github.com/Pappyjay23/metabnb.git
+```
+
+### Navigate to directory
+
+```bash
+cd metabnb
+```
+
+### Install NPM
+
+```bash
+npm install
+```
+
+### Run
+
+Run the development server to view the app.
+
+```bash
+npm start
+```
+
+Now, you can navigate to http://localhost:3000/ to view the app.
+
+### Build
+
+```bash
+npm run build
+```
+
+## Credits ✍
+
+Implementation by [@Pappyjay23](https://github.com/Pappyjay23)
