@@ -5,7 +5,7 @@ export const NavbarData = [
     },
     {
         name: 'Place to stay',
-        link: '/'
+        link: '/placeToStay'
     },
     {
         name: 'NFTs',
