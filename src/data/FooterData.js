@@ -41,7 +41,7 @@ export const FooterData = [
 			},
 			{
 				name: "Learn more",
-				link: "/",
+				link: "/placeToStay",
 			},
 		],
 	},

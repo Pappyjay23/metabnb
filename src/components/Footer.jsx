@@ -9,13 +9,13 @@ const Footer = () => {
 		<div className='bg-[#1D1D1E] text-white'>
 			<div className='flex flex-wrap gap-[1.5rem] px-4 md:px-10 justify-between lg:w-[80%] max-w-[1200px] mx-auto py-10'>
 				<div className='flex flex-col w-full items-center md:w-fit'>
-					<Link>
+					<a href='#top'>
 						<img
 							src={Logo}
 							alt='Logo'
 							className='h-[15px] md:h-[20px] lg:h-[30px] lg:mb-[3rem] mb-6'
 						/>
-					</Link>
+					</a>
 					<div className='flex justify-center w-full'>
 						{FooterSocials.map((item, id) => (
 							<Link to={item.link} key={id}>

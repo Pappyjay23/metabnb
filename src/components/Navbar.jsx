@@ -21,7 +21,7 @@ const Navbar = () => {
 	}
 
 	return (
-		<div className='relative'>
+		<div className='relative' id="top">
 			<div className='px-4 lg:px-8 py-4 flex justify-between items-center max-w-[1200px] mx-auto'>
 				<div className='flex items-center'>
 					<Link to='/'>
