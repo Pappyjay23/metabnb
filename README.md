@@ -2,6 +2,10 @@
 	<h1> Metabnb- Rent A Place Away From Home In The Metaverse.</h1>
 </div>
 
+## Snapshots 📸
+
+![Snapshot of MetaBnb](public/Snapshot.png)
+
 ## Tech Stack ✨
 
 - [React.js](https://reactjs.org/) - UI Library
